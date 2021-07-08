@@ -1,4 +1,5 @@
 # Twitter-Sentiment-Analysis
+
 Sentiment Analysis on User's Twitter Account to check whether their tweets are mostly positive, negative or neutral.
 
 2 main python libraries used
@@ -16,3 +17,9 @@ We have 4 keys for each app
 Using these keys, we can authenticate Twitter api using Tweepy api function.
 
 For visualization - bar, scatter and pie charts used to plot sentiments using Matplotlib.
+
+For front-end -> StreamLit is used.
+
+Web App is deployed on Heroku.
+
+Web Link : https://twittersentimentanalysis123.herokuapp.com/
