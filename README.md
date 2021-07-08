@@ -22,4 +22,4 @@ For front-end -> StreamLit is used.
 
 Web App is deployed on Heroku.
 
-Web Link : https://twittersentimentanalysis123.herokuapp.com/
+Web App Link : https://twittersentimentanalysis123.herokuapp.com/
